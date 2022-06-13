@@ -79,4 +79,4 @@ module.exports = [
     },
     watch: true
   }
-]
+] 
